@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Api</key>
+	<dict>
+		<key>scheme</key>
+		<dict>
+			<key>Debug</key>
+			<string>https://</string>
+			<key>Release</key>
+			<string>https://</string>
+		</dict>
+		<key>host</key>
+		<dict>
+			<key>Debug</key>
+			<string>api.thecatapi.com</string>
+			<key>Release</key>
+			<string>api.thecatapi.com</string>
+		</dict>
+		<key>baseProducts</key>
+		<dict>
+			<key>Debug</key>
+			<string>/v1/breeds</string>
+			<key>Release</key>
+			<string>/v1/breeds</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
